@@ -1,0 +1,16 @@
+/* [project]/src/app/animations.css [app-client] (css) */
+@keyframes progress {
+  0% {
+    width: 0%;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+
+.animate-progress {
+  animation: 2s ease-in-out progress;
+}
+
+/*# sourceMappingURL=src_app_animations_css_f9ee138c._.single.css.map*/
